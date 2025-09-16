@@ -1,2 +1,26 @@
-# cpp-daily
-A daily log of me figuring out C++. Every folder has a little code and a little context — what I learned, where I messed up, or what finally clicked. It’s not polished, but it’s real. The idea is simple: show up, code a bit, and keep pushing forward until all the small steps turn into something big.
+# 🚀 C++ Daily Learning
+
+This repository is my **daily C++ learning journey**.  
+Every day I write a small program, document what I learned, and push it here.  
+The goal = **consistency + growth** 💪🔥  
+
+---
+
+## 📅 Daily Log
+
+| Day | Topic | Code | Notes |
+|-----|-------|------|-------|
+| 1   | Hello World, basics | [log/day1/main.cpp](.log//day1/main.cpp) | [day1/README.md](.log//day1/README.md) |
+| 2   | Variables & Data Types | [log/day2/main.cpp](.log//day2/main.cpp) | [day2/README.md](./log/day2/README.md) |
+| 3   | ... | ... | ... |
+
+---
+
+## ⚡ Why this repo?
+- Build discipline (1 commit everyday)
+- Track my **C++ progress step by step**
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).

@@ -13,8 +13,7 @@ char → single characters
 
 💻 Code
 
-See day2.cpp
-
+See main.cpp
 #include <iostream>
 using namespace std;
 

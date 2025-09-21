@@ -10,9 +10,10 @@ The goal = **consistency + growth** 💪🔥
 
 | Day | Topic | Code | Notes |
 |-----|-------|------|-------|
-| 1   | Hello World, basics | [log/day1/main.cpp](log//day1/main.cpp) | [log.day1/README.md](log//day1/README.md) |
-| 2   | Variables & Data Types | [log/day2/main.cpp](log//day2/main.cpp) | [log/day2/README.md](/log/day2/README.md) |
-| 3   | ... | ... | ... |
+| 1   | Hello World, basics | [log/day1/main.cpp](log/day1/main.cpp) | [log/day1/README.md](log/day1/README.md) |
+| 2   | Variables & Data Types | [log/day2/main.cpp](log/day2/main.cpp) | [log/day2/README.md](log/day2/README.md) |
+| 3   | Input, Operators & Strings | [log/day3/main.cpp](log/day3/main.cpp) | [log/day3/README.md](log/day3/README.md) |
+
 
 ---
 

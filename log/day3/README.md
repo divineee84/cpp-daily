@@ -1,4 +1,9 @@
-ing math using operators:
+📘 Day 3 — Input, Operators & Strings
+✅ What I Learned
+
+Taking input from the user with cin
+
+Performing math using operators:
 
 + addition
 
@@ -19,6 +24,7 @@ Using string to store words and names
 using namespace std;
 
 ```
+
 int main() {
     int a, b;
     cout << "Enter two numbers: ";
